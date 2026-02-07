@@ -1,0 +1,16 @@
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.Form1.resources
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.GenerateResource.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfoInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.AssemblyInfo.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.exe
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.deps.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.runtimeconfig.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\bin\Debug\net8.0-windows\BiblWorm.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\refint\BiblWorm.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\BiblWorm.genruntimeconfig.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр2\BiblWorm\BiblWorm\obj\Debug\net8.0-windows\ref\BiblWorm.dll
