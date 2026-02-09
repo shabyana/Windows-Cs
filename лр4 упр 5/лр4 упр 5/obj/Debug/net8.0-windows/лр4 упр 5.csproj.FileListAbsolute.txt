@@ -1,0 +1,17 @@
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\bin\Debug\net8.0-windows\лр4 упр 5.exe
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\bin\Debug\net8.0-windows\лр4 упр 5.deps.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\bin\Debug\net8.0-windows\лр4 упр 5.runtimeconfig.json
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\bin\Debug\net8.0-windows\лр4 упр 5.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\bin\Debug\net8.0-windows\лр4 упр 5.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4_упр_5.Form1.resources
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4_упр_5.Form2.resources
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.csproj.GenerateResource.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.AssemblyInfoInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.AssemblyInfo.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.csproj.CoreCompileInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\refint\лр4 упр 5.dll
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\лр4 упр 5.genruntimeconfig.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WindowsForms\лр4\лр4 упр 5\лр4 упр 5\obj\Debug\net8.0-windows\ref\лр4 упр 5.dll
