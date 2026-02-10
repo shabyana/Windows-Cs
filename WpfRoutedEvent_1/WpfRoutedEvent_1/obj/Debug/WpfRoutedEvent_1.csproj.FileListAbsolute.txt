@@ -1,0 +1,15 @@
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.AssemblyReference.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\MainWindow.g.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\App.g.cs
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1_MarkupCompile.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1_MarkupCompile.lref
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.exe.config
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.exe
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\bin\Debug\WpfRoutedEvent_1.pdb
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\MainWindow.baml
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.g.resources
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.Properties.Resources.resources
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.GenerateResource.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.csproj.CoreCompileInputs.cache
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.exe
+C:\Users\shaby\OneDrive\Desktop\ИТМО ЛР\Разработка Windows-приложений на C#\WPF\wpf3\WpfRoutedEvent_1\WpfRoutedEvent_1\obj\Debug\WpfRoutedEvent_1.pdb
